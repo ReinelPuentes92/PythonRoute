@@ -1,7 +1,16 @@
-Comandos copilot
-/doc: Agrega comentarios al codigo especificado o seleccionado.
-/explain: obtiene explicaciones sobre el codigo.
-/generate: genera codigo para responder a la pregunta especificada.
-/help: obtiene ayuda sobre como usar el chat de copilot
-/optimize: analiza y mejora el tiempo de ejecucion del codigo seleccionado
-/test: crea pruebas unitarias para el codigo seleccionado
+# Generar codigo markdown de los comentarios expuestos
+
+## en Python
+
+### Descripción
+Este repositorio contiene ejemplos y ejercicios para aprender los comandos principales de GitHub Copilot.
+
+### Recursos
+- /doc: Agrega comentarios al codigo especificado o seleccionado.
+- /explain: obtiene explicaciones sobre el codigo.
+- /generate: genera codigo para responder a la pregunta especificada.
+- /help: obtiene ayuda sobre como usar el chat de copilot
+- /optimize: analiza y mejora el tiempo de ejecucion del codigo seleccionado
+- /test: crea pruebas unitarias para el codigo seleccionado
+
+
