@@ -1,4 +1,3 @@
-import pytest
 from fastapi.testclient import TestClient
 
 from api_code_review.app import app
