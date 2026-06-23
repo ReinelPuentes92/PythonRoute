@@ -40,7 +40,7 @@ def get_day() -> DayResponse:
         now = datetime.now(tz)
         result[country] = {
             "timezone": tz_name,
-            "day_of_week": now.strftime("%A"),
+            "day_of_week": ("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")[now.weekday()],
             "day_number": now.weekday(),
             "date": now.strftime("%Y-%m-%d"),
         }
